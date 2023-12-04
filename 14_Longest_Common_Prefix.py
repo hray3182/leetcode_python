@@ -1,3 +1,4 @@
+# 通過測驗圖：https://imgur.com/AjvCnO4
 from typing import List
 
 # 問題描述：
