@@ -12,10 +12,7 @@
 # 此時迴圈結束，判斷 x == half or x == half // 10
 class Solution:
     def isPalindrome(self, x: int) -> bool:
-        """
-        :type x: int
-        :rtype: bool
-        """
+
         if x < 0 or (x != 0 and x % 10 == 0):
             return False
         
