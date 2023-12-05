@@ -1,3 +1,5 @@
+# 通過圖：https://imgur.com/lEf3hEr
+
 from typing import List
 
 # https://leetcode.com/problems/search-insert-position/
